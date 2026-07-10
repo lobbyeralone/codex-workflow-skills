@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tidy Knowledge Base"
+  short_description: "Merge scattered dev notes into one reusable knowledge base."
+  default_prompt: "Use tidy-knowledge-base to consolidate this documentation folder into one maintainable knowledge base. Keep reusable guidance, move templates aside, remove stale links and private material, then verify the result."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Audit Completion Evidence"
+  short_description: "Require evidence before declaring work complete."
+  default_prompt: "Use audit-completion-evidence to audit this task against the original requirements. For each requirement, identify evidence, inspect current state, and continue work if anything is missing or weak."

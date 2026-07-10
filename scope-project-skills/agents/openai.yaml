@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scope Project Skills"
+  short_description: "Move project-only skills out of global discovery."
+  default_prompt: "Use scope-project-skills to find project-specific global skills, move them into a project-local skills directory, update the router, and validate that they no longer trigger globally."
